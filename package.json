@@ -1,6 +1,6 @@
 {
   "name": "serverless-pretty-output",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Pretty Print JSON from Serverless output",
   "main": "index.js",
   "scripts": {
@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/cameroncooper/serverless-pretty-output#readme",
   "dependencies": {
-    "node-jq": "git+https://github.com/cameroncooper/node-jq.git"
+    "node-jq": "git+https://github.com/cameroncooper/node-jq.git#with-build"
   }
 }
