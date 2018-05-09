@@ -1,0 +1,22 @@
+{
+  "name": "serverless-pretty-output",
+  "version": "1.0.0",
+  "description": "Pretty Print JSON from Serverless output",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/cameroncooper/serverless-pretty-output.git"
+  },
+  "author": "Cameron Cooper <c@meron.cc>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cameroncooper/serverless-pretty-output/issues"
+  },
+  "homepage": "https://github.com/cameroncooper/serverless-pretty-output#readme",
+  "dependencies": {
+    "node-jq": "git+https://github.com/cameroncooper/node-jq.git"
+  }
+}
