@@ -19,5 +19,5 @@ This plugin uses `jq` to format JSON and uses `'.'` as the default filter. You c
 
 ```YAML
 custom:
-  invokeOutputFilter: "."
+  jsonOutputFilter: ".message"
 ```
