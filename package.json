@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/cameroncooper/serverless-pretty-output#readme",
   "dependencies": {
-    "node-jq": "git+https://github.com/cameroncooper/node-jq.git#with-build"
+    "node-jq": "^1.3.0"
   }
 }
