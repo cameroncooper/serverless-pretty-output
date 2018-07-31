@@ -1,6 +1,6 @@
 {
   "name": "serverless-pretty-output",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Pretty Print JSON from Serverless output",
   "main": "index.js",
   "scripts": {

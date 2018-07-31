@@ -16,7 +16,6 @@ class Pretty {
     };
 
     console._stdout.write = hook(console._stdout.write)
-    console._stderr.write = hook(console._stderr.write)
     process.stdout.write = hook(process.stdout.write);
   }
 }
